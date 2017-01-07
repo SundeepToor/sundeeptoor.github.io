@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: url("../img/mh-ybnipryc-mercedes-carballo.jpg") no-repeat center center;
+    background: #423F40 url("../img/mh-ybnipryc-mercedes-carballo.jpg") no-repeat center center;
     background-size: cover;
 }
 nav ul, footer ul {
@@ -16,7 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #E8E5CD;
 }
 a:hover {
     text-decoration: underline;
@@ -28,7 +28,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #FFF6EE;
 }
 footer {
     border-top: 1px solid #d5d5d5;
