@@ -1,7 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: #423F40 url("../img/mh-ybnipryc-mercedes-carballo.jpg") no-repeat center center;
+    background: linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    ), url("../img/mh-ybnipryc-mercedes-carballo.jpg") no-repeat center center;
     background-size: cover;
 }
 nav ul, footer ul {
