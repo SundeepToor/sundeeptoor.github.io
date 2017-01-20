@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Key Detection</title>
+</head>
+<body>
+
+<h1 id="element1">What is the secret password?</h1>
+<script>
+const pressed = [];
+const secretCode = 'open sesame';
+
+function reveal (){
+	var strMessage1 = document.getElementById("element1");
+	strMessage1.innerHTML = strMessage1.innerHTML
+							.replace('What is the secret password?', 'Correct!');
+};
+
+window.addEventListener('keyup', (e) => {
+	console.log(e.key);
+	pressed.push(e.key);
+	pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
+	if (pressed.join('').includes(secretCode)) {
+		console.log('DING DING!');
+		reveal();
+	}
+	console.log(pressed);
+});
+</script>
+</body>
+</html>
