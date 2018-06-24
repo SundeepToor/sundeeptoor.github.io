@@ -1,8 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:900|Source+Sans+Pro:300,300italic,700);
 body {
     margin: 60px auto;
     width: 70%;
     background-color: #ffd131;
     color: #333;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 nav ul, footer ul {
@@ -25,12 +27,12 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Playfair Display', serif;
     color: #333;
 }
 h2{
     font-size: 2.2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Playfair Display', serif;
     color: #333;
 }
 h3{
