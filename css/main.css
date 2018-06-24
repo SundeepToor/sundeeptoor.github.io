@@ -21,6 +21,7 @@ nav ul li, footer ul li, ul li {
 a {
     text-decoration: none;
     color: #ff0080;
+    padding-bottom: 5px;
 }
 a:hover {
     text-decoration: underline;
