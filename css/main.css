@@ -11,13 +11,14 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li, footer ul li, ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
-    color: #E8E5CD;
+    color: #ff0080;
 }
 a:hover {
     text-decoration: underline;
