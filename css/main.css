@@ -6,6 +6,8 @@ body {
       rgba(66, 63, 64, 0.45)
     ), url("../img/mh-ybnipryc-mercedes-carballo.jpg") no-repeat center center;
     background-size: cover;
+    width:100%;
+    height:100%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -28,6 +30,16 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #FFF;
+}
+h2{
+    font-size: 2.2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #FFF;
+}
+h3{
+    font-size: 1.7em;
+    line-height: 1.4em;
+    color: #FFF6EE;
 }
 p {
     font-size: 1.5em;
