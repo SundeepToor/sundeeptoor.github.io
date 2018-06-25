@@ -34,7 +34,7 @@ By 2016, I had been animating for 8 years, freelancing and independently working
 
 <p>I learnt how to create a WordPress theme from scratch through <a href="https://www.udemy.com/bootstrap-to-wordpress/" target="_blank">Brad Hussey's Udemy Course</a></p>
 
-<p>I improved my knowledge of JavaScript with<a href="https://javascript30.com/" target="_blank">Wes Bos' JavaScript 30</a> tutorials.</p>
+<p>I improved my knowledge of JavaScript with <a href="https://javascript30.com/" target="_blank">Wes Bos' JavaScript 30</a> tutorials.</p>
 
 <p>I completed 100 days of coding at the beginning of this year, working through the following tutorials:</p>
 <ul>
