@@ -9,7 +9,7 @@
 	<p>I could have gone into graphic or web design or something more visual but didn't. I felt that if I was going to start over, it should be something that feels <em>new</em>. I'm excited by new things, and it feels like I'm pushing my abilities. I like to look back on the year and see what I have achieved.</p>  
 
 	<h2>Why web development?</h2>
-	<ul>
+	<ul class="blog-list">
 		<li>You don't need a degree to become a web developer. It's one of those career's where being self-taught isn't held against you.</li>  
 		<li>Despite what people think, coding is really creative. It involves making something useful and cool seemingly from nothing.</li>
 		<li>The skills are in demand. There are more industries relying on coding skills for various things. I'm quite a restless person who needs to be challenged and this field of work would keep me on my toes in a good way.</li>
@@ -21,7 +21,7 @@
 	<h2>Steps taken to become a web developer</h2>
 
 	<p>There are a lot of resources online where you can teach yourself to code. Here are some that I used at the beginning:</p>
-	<ul>
+	<ul class="blog-list">
 		<li><a href="https://www.codecademy.com/" target="_blank">Codeacademy</a></li>
 		<li><a href="https://www.freecodecamp.org/" target="_blank">Free Code Camp</a></li>
 		<li><a href="https://www.codeavengers.com/" target="_blank">Codeavengers</a></li>
@@ -34,7 +34,7 @@
 	<p>I improved my knowledge of JavaScript with <a href="https://javascript30.com/" target="_blank">Wes Bos' JavaScript 30</a> tutorials.</p>
 
 	<p>I completed 100 days of coding at the beginning of this year, working through the following tutorials:</p>
-	<ul>
+	<ul class="blog-list">
 		<li><a href="https://learnjavascript.today/" target="_blank">Zell's Learn JavaScript</a></li>
 		<li><a href="https://flexbox.io/" target="_blank">Wes Bos' What the flexbox?</a></li>
 		<li><a href="https://cssgrid.io/" target="_blank">Wes Bos' CSS Grid</a></li>
