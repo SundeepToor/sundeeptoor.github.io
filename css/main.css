@@ -21,6 +21,9 @@ nav ul li, footer ul li, ul li {
     font-size: 1.4em;
     border: 1px solid #000;
 }
+.showcase li{
+    border: 1px solid #ff0080;
+}
 a {
     text-decoration: none;
     color: #ff0080;
