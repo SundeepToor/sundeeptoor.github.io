@@ -12,10 +12,10 @@ By 2016, I had been animating for 8 years, freelancing and independently working
 
 <h2>Why web development?</h2>
 <ul>
-<li>You don't need a degree to become a web developer. It's one of those career's where being self-taught isn't held against you.</li>  
-<li>Despite what people think, coding is really creative. It involves making something useful and cool seemingly from nothing.</li>
-<li>The skills are in demand. There are more industries relying on coding skills for various things. I'm quite a restless person who needs to be challenged and this field of work would keep me on my toes in a good way.</li>
-<li>If I was going to the learn something new, I wanted it to be skills that had longevity. Web development offered that.</li>
+	<li>You don't need a degree to become a web developer. It's one of those career's where being self-taught isn't held against you.</li>  
+	<li>Despite what people think, coding is really creative. It involves making something useful and cool seemingly from nothing.</li>
+	<li>The skills are in demand. There are more industries relying on coding skills for various things. I'm quite a restless person who needs to be challenged and this field of work would keep me on my toes in a good way.</li>
+	<li>If I was going to the learn something new, I wanted it to be skills that had longevity. Web development offered that.</li>
 </ul>
 <p>Learning html and CSS was quite straight forward. CSS keeps you on your toes and is moving in new directions which excites my creative side.</p>
 <p>Flexible nature of the work. You can work from anywhere which is really appealing. This would be something I would do further down my career. Right now I want to surround myself with more talented developers so I can learn things I wouldn't normally pick up on my own.</p>
