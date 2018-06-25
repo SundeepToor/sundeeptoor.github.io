@@ -24,6 +24,7 @@ nav ul li, footer ul li, ul li {
 .showcase li{
     margin-left: 15px;
     padding-bottom: 10px;
+    margin-bottom: 15px;
 }
 a {
     text-decoration: none;
