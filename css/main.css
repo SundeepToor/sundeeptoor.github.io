@@ -71,3 +71,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.projects ul li{
+    display:block;
+}
