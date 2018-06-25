@@ -20,6 +20,7 @@ nav ul li, footer ul li, ul li {
 }
 .showcase{
     font-size: 1.4em;
+    line-height: 3em;
 }
 .showcase ul li {
     margin-bottom: 40px;
