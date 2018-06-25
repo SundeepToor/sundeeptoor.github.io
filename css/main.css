@@ -125,3 +125,6 @@ ul.posts li {
 .place{
     color: #ff0080;
 }
+.blog ul li{
+    display:block;
+}
