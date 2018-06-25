@@ -109,3 +109,15 @@ ul.posts li {
 .tachyons {width: 50%; }
 
 .react {width: 10%; }
+
+.job-title{
+    float:left;
+    font-weight:bold;
+}
+.date{
+    float:right;
+    color: #ff0080;
+}
+.place{
+    color: #ff0080;
+}
