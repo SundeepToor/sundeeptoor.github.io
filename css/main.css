@@ -65,6 +65,9 @@ footer {
     border-top: 1px solid #333;
     font-size: .8em;
 }
+hr{
+    color: #333;
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
