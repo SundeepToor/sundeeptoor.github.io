@@ -110,12 +110,16 @@ ul.posts li {
 
 .react {width: 10%; }
 
+.job-header{
+    display:flex;
+    justify-content: space-between;
+}
 .job-title{
-    float:left;
+
     font-weight:bold;
 }
 .date{
-    float:right;
+
     color: #ff0080;
 }
 .place{
