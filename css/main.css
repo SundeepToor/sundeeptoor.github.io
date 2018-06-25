@@ -75,3 +75,31 @@ ul.posts li {
     display:block;
     line-height: 3em;
 }
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+  background-color: #2196F3;
+}
+
+.html {width: 90%;}
+.css {width: 70%; }
+.js {width: 60%; }
+.php {width: 50%; }
+
+.mysql {width: 50%; }
+.wordpress {width: 70%; }
+.bootstrap {width: 80%; }
+.jquery {width: 70%; }
+
+.resweb {width: 80%; }
+.sass {width: 80%; }
+.git {width: 50%; }
+.tachyons {width: 50%; }
+
+.react {width: 10%; }
