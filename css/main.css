@@ -134,3 +134,6 @@ ul.posts li {
 .blog ul {
     list-style-type: square;
 }
+.blog ul li a{
+    list-style-type: square;
+}
