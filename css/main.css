@@ -127,4 +127,6 @@ ul.posts li {
 }
 .blog ul li{
     display:block;
+    list-style-type: square;
+    font-size: 2em;
 }
