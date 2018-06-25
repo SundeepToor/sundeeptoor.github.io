@@ -1,3 +1,4 @@
+<div class="blog">
 <p>I have always drawn from a young age, heavily inspired by disney films. I wanted to be an animator and studied Computer Animation at a local university.</p>
 <p>
 By 2016, I had been animating for 8 years, freelancing and independently working on various music video, pitches and explainer videos. I had my films shown at various festivals, both nationally and internationally and even won awards for my work. I had managed to carve out my own production timeline that worked well for me.
@@ -45,3 +46,4 @@ By 2016, I had been animating for 8 years, freelancing and independently working
 
 <p>After being a generalist in front end web development, the next steps I plan to take will involve learning JS frameworks and possibly specialise in making engagingly animated components for software.</p>
 <p>Wish me luck!</p>
+</div>
