@@ -23,6 +23,9 @@ nav ul li, footer ul li, ul li {
     font-size: 1.4em;
      margin-bottom: 15px;
 }
+.showcase ul li a{
+    margin-bottom: 15px;
+}
 .showcase li{
     margin-left: 15px;
     padding-bottom: 10px;
