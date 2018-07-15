@@ -1,4 +1,4 @@
-
+<div class="blog">
   <p>I've spent the past 3 weeks learning React.<br>
   I find that doing theory and practical tests help me to improve my understanding of how React works.</p>
 
@@ -95,5 +95,5 @@
   <a href="https://codepen.io/SundeepToor/pen/ejJWmK" target="_blank">Using an event listener in a component.</a></p>
 
   <p>In React, you define event handlers as methods on a component class.</p>
-
+</div>
 
