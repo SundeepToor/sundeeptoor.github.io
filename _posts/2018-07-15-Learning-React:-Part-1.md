@@ -75,24 +75,24 @@
   <p>The <em>render()</em> method should contain a return statement. Usually the return statement returns  a JSX expression.
   Whenever you make a component, that component inherits all of the methods of its component class.</p>
 
-  <p><a href="https://codepen.io/SundeepToor/pen/xJZgjq">React Component Class</a></p>
+  <p><a href="https://codepen.io/SundeepToor/pen/xJZgjq" target="_blank">React Component Class</a></p>
 
   <p>A multiline JSX expression expression should always be wrapped in parentheses <em>()</em></p>
 
-  <p><a href="https://codepen.io/SundeepToor/pen/VBePEQ">Use a variable attribute in a component</a></p>
+  <p><a href="https://codepen.io/SundeepToor/pen/VBePEQ" target="_blank">Use a variable attribute in a component</a></p>
 
   <p>You can put calculations that need to be performed before a component renders within the <em>render()</em> function.</p>
 
-  <p><a href="https://codepen.io/SundeepToor/pen/ejJvPy">Logic in a render function</a></p>
+  <p><a href="https://codepen.io/SundeepToor/pen/ejJvPy" target="_blank">Logic in a render function</a></p>
 
   <p><a href="">Display an item from an array of objects</a></p>
   
-  <p><a href="https://codepen.io/SundeepToor/pen/OwMpYN">When using a conditional in a render function, the if statement appears before the return.</a></p>
+  <p><a href="https://codepen.io/SundeepToor/pen/OwMpYN" target="_blank">When using a conditional in a render function, the if statement appears before the return.</a></p>
 
-  <p><a href="https://codepen.io/SundeepToor/pen/OwMpKN">Using <em>this</em> in a component.</a></p>
+  <p><a href="https://codepen.io/SundeepToor/pen/OwMpKN" target="_blank">Using <em>this</em> in a component.</a></p>
 
   <p>Render functions contain event listeners.<br>
-  <a href="https://codepen.io/SundeepToor/pen/ejJWmK">Using an event listener in a component.</a></p>
+  <a href="https://codepen.io/SundeepToor/pen/ejJWmK" target="_blank">Using an event listener in a component.</a></p>
 
   <p>In React, you define event handlers as methods on a component class.</p>
 
