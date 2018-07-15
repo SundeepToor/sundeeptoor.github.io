@@ -1,4 +1,4 @@
-<div class="blog">
+
   <p>I've spent the past 3 weeks learning React.<br>
   I find that doing theory and practical tests help me to improve my understanding of how React works.</p>
 
@@ -67,7 +67,7 @@
   <p><em>import React from 'react';</em><br>
   This line creates a new variable, it's value is a particular imported JavaScript object.</p>
 
-  <p>Every component must come from a <u>component class</u></ul>.</p>
+  <p>Every component must come from a <u>component class</u>.</p>
 
   <p>Use <em>component class</em> to produce as many components as you want. To make a component 
   class use <em>React.Component</em></p>
@@ -79,25 +79,25 @@
   <p>The <em>render()</em> method should contain a return statement. Usually the return statement returns  a JSX expression.
   Whenever you make a component, that component inherits all of the methods of its component class.</p>
 
-  <a href="https://codepen.io/SundeepToor/pen/xJZgjq">React Component Class</a>
+  <p><a href="https://codepen.io/SundeepToor/pen/xJZgjq">React Component Class</a></p>
 
   <p>A multiline JSX expression expression should always be wrapped in parentheses <em>()</em></p>
 
-  <a href="https://codepen.io/SundeepToor/pen/VBePEQ">Use a variable attribute in a component</a>
+  <p><a href="https://codepen.io/SundeepToor/pen/VBePEQ">Use a variable attribute in a component</a></p>
 
   <p>You can put calculations that need to be performed before a component renders within the <em>render()</em> function.</p>
 
   <p><a href="https://codepen.io/SundeepToor/pen/ejJvPy">Logic in a render function</a></p>
 
-  <a href="">Display an item from an array of objects</a>
+  <p><a href="">Display an item from an array of objects</a></p>
   
-  <a href="https://codepen.io/SundeepToor/pen/OwMpYN">When using a conditional in a render function, the if statement appears before the return.</a>
+  <p><a href="https://codepen.io/SundeepToor/pen/OwMpYN">When using a conditional in a render function, the if statement appears before the return.</a></p>
 
-  <a href="https://codepen.io/SundeepToor/pen/OwMpKN">Using <em>this</em> in a component. </a>
+  <p><a href="https://codepen.io/SundeepToor/pen/OwMpKN">Using <em>this</em> in a component.</a></p>
 
   <p>Render functions contain event listeners.<br>
   <a href="https://codepen.io/SundeepToor/pen/ejJWmK">Using an event listener in a component.</a></p>
 
   <p>In React, you define event handlers as methods on a component class.</p>
 
-</div>
+
