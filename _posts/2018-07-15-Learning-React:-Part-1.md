@@ -3,7 +3,7 @@
   I find that doing theory and practical tests help me to improve my understanding of how React works.</p>
 
   <p>I've been using the following resources simultaneously to improve my understanding:
-    <ul>
+    <ul class="blog-list">
       <li><a href="https://www.codecademy.com/" target="_blank">Codecademy Learn ReactJS: Part 1</a></li>
       <li><a href="https://www.freecodecamp.org/" target="_blank">Free Code Camp React section</a></li>
       <li><a href="http://www.reactbites.com/" target="_blank">React Bites</a></li>
