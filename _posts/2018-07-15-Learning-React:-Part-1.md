@@ -85,7 +85,7 @@
 
   <p><a href="https://codepen.io/SundeepToor/pen/ejJvPy" target="_blank">Logic in a render function</a></p>
 
-  <p><a href="">Display an item from an array of objects</a></p>
+  <p><a href="https://codepen.io/SundeepToor/pen/OwMpdM">Display an item from an array of objects</a></p>
   
   <p><a href="https://codepen.io/SundeepToor/pen/OwMpYN" target="_blank">When using a conditional in a render function, the if statement appears before the return.</a></p>
 
