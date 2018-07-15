@@ -1,12 +1,14 @@
 <div class="blog">
-  Learning React
   <p>I've spent the past 3 weeks learning React.<br>
   I find that doing theory and practical tests help me to improve my understanding of how React works.</p>
 
   <p>I've been using the following resources simultanesously to improve my understanding:
-
-
-
+    <ul>
+      <li>Codecademy Learn ReactJS: Part 1</li>
+      <li>Free Code Camp React section</li>
+      <li>React Bites</li>
+      <li>WesBos </li>
+    </ul>
   </p>
   <h2>This is what I've learnt so far with Codeacademy:</h2>
 
@@ -65,7 +67,7 @@
   <p><em>import React from 'react';</em><br>
   This line creates a new variable, it's value is a particular imported JavaScript object.</p>
 
-  <p>Every component must come from a <u>component class</ul>.</p>
+  <p>Every component must come from a <u>component class</u></ul>.</p>
 
   <p>Use <em>component class</em> to produce as many components as you want. To make a component 
   class use <em>React.Component</em></p>
@@ -85,7 +87,7 @@
 
   <p>You can put calculations that need to be performed before a component renders within the <em>render()</em> function.</p>
 
-  <a href="https://codepen.io/SundeepToor/pen/ejJvPy">Logic in a render function</a>
+  <p><a href="https://codepen.io/SundeepToor/pen/ejJvPy">Logic in a render function</a></p>
 
   _________________
   <a href="">Display an item from an array of objects</a>
@@ -98,6 +100,6 @@
   <p>Render functions contain event listeners.
   <a href="https://codepen.io/SundeepToor/pen/ejJWmK">Using an event listener in a component.</a></p>
 
-  In React, you define event handlers as methods on a component class.
+  <p>In React, you define event handlers as methods on a component class.</p>
 
 </div>
