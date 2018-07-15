@@ -7,7 +7,7 @@
       <li><a href="https://www.codecademy.com/" target="_blank">Codecademy Learn ReactJS: Part 1</a></li>
       <li><a href="https://www.freecodecamp.org/" target="_blank">Free Code Camp React section</a></li>
       <li><a href="http://www.reactbites.com/" target="_blank">React Bites</a></li>
-      <li<a href="https://reactforbeginners.com/" target="_blank">React for beginners by Wes Bos </a></li>
+      <li><a href="https://reactforbeginners.com/" target="_blank">React for beginners by Wes Bos </a></li>
     </ul>
   </p>
   <h2>This is what I've learnt so far with Codeacademy:</h2>
@@ -25,19 +25,17 @@
 
   <p>In JSX event listener names are written in camelCase.</p>
 
-  <a href="https://codepen.io/SundeepToor/pen/JBYgRv" target="_blank">onClick event image swap</a>
+  <p><a href="https://codepen.io/SundeepToor/pen/JBYgRv" target="_blank">onClick event image swap</a></p>
 
-  You cannot inject an if statement into a JSX expression because of how JSX is compiled.
+  <p>You cannot inject an if statement into a JSX expression because of how JSX is compiled.</p>
 
-  JSX conditions - If statements that work.
+  <p><a href="https://codepen.io/SundeepToor/pen/MBaNRQ" target="_blank">JSX Conditions</a></p>
 
-  <a href="https://codepen.io/SundeepToor/pen/MBaNRQ" target="_blank">JSX Conditions</a>
+  <p><a href="https://codepen.io/SundeepToor/pen/pZgzRV" target="_blank">JSX Conditionals: &&</a></p>
 
-  <a href="https://codepen.io/SundeepToor/pen/pZgzRV" target="_blank">JSX Conditionals: &&</a>
+  <p>If you want to create a list of JSX elements, then <em>.map()</em></p>
 
-  If you want to create a list of JSX elements, then <em>.map()</em>
-
-  <a href="https://codepen.io/SundeepToor/pen/EpPYbB" target="_blank">.map in JSX </a>
+  <p><a href="https://codepen.io/SundeepToor/pen/EpPYbB" target="_blank">.map in JSX</a></p>
 
   <p>Sometimes the list will need keys. A key is a JSX attribute that needs to be unique.
   React uses them to keep track of lists.<br>
@@ -46,20 +44,18 @@
   <p>A list needs keys if:
   <ul>
   <li>list-items have memory from one render to the next (e.g. When to-do list renders, each item must remember whether it was checked off) </li>
-  OR
+    <h4>OR</h4>
   <li>A list's order might be shuffled (e.g. A list of search results might be shuffled from one render to the next)</li>
   </ul>
   </p>
-  <a href="https://codepen.io/SundeepToor/pen/jpWNRQ" target="_blank">How to get <em>.map()</em> to produce a unique key each time it loops.</a>
+  <p><a href="https://codepen.io/SundeepToor/pen/jpWNRQ" target="_blank">How to get <em>.map()</em> to produce a unique key each time it loops.</a></p>
 
   <p>React.createElement - write React code without JSX!<br>
-  JSX EXPRESSION<br>
-  const h1 = <h1>Hello World</h1>;<br>
-  CAN BE WRITTEN AS:<br>
+  This is what the code looks like after compiling:<br>
   const h1 = React.createElement(<br>
   "h1",<br>
   null,<br>
-  "Hello, world"<br>
+  "Hello World"<br>
   );</p>
 
   <p>Components are reusable code that usually render html.</p>
