@@ -2,12 +2,12 @@
   <p>I've spent the past 3 weeks learning React.<br>
   I find that doing theory and practical tests help me to improve my understanding of how React works.</p>
 
-  <p>I've been using the following resources simultanesously to improve my understanding:
+  <p>I've been using the following resources simultaneously to improve my understanding:
     <ul>
-      <li>Codecademy Learn ReactJS: Part 1</li>
-      <li>Free Code Camp React section</li>
-      <li>React Bites</li>
-      <li>WesBos </li>
+      <li><a href="https://www.codecademy.com/" target="_blank">Codecademy Learn ReactJS: Part 1</a></li>
+      <li><a href="https://www.freecodecamp.org/" target="_blank">Free Code Camp React section</a></li>
+      <li><a href="http://www.reactbites.com/" target="_blank">React Bites</a></li>
+      <li<a href="https://reactforbeginners.com/" target="_blank">React for beginners by Wes Bos </a></li>
     </ul>
   </p>
   <h2>This is what I've learnt so far with Codeacademy:</h2>
@@ -89,15 +89,13 @@
 
   <p><a href="https://codepen.io/SundeepToor/pen/ejJvPy">Logic in a render function</a></p>
 
-  _________________
   <a href="">Display an item from an array of objects</a>
-  _________________
-
+  
   <a href="https://codepen.io/SundeepToor/pen/OwMpYN">When using a conditional in a render function, the if statement appears before the return.</a>
 
   <a href="https://codepen.io/SundeepToor/pen/OwMpKN">Using <em>this</em> in a component. </a>
 
-  <p>Render functions contain event listeners.
+  <p>Render functions contain event listeners.<br>
   <a href="https://codepen.io/SundeepToor/pen/ejJWmK">Using an event listener in a component.</a></p>
 
   <p>In React, you define event handlers as methods on a component class.</p>
