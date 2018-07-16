@@ -1,5 +1,5 @@
 <div class="blog">
-	<h3>Getting Component to interact</h3>
+	<h3>Getting Components to interact</h3>
 	
 	<p>Render methods can also return another kind of JSX - <em><a href="https://codepen.io/SundeepToor/pen/gjPxZb" target="_blank">component instances</a></em></p>
 	
