@@ -6,27 +6,28 @@
 	<h3>Exporting Components</h3>
 	<p><em>export const nameOfItem = {};</em></p>
 	<p>You can make multiple exports within the same file</p>
-	<p>In a different file, <em>import</em> the name of the variable from the first file</p>
+	<p>In a different file, <em>import</em> the name of the variable from the first file.</p>
 	<p>e.g. In NavBar.js: <em>export class NavBar extends React.Component . . .</em><br>
 	In ProfilePage.js: <em>import {NavBar} from './NavBar.js';</em>
 	</p>
 	
 	<h3><em>this.props</em> - Store dynamic information in React</h3>
-	<p>A component can pass information to another component</p>
-	<p>Every component has something called <em>props</em><p>
+	<p>A component can pass information to another component.</p>
+	<p>Every component has something called <em>props</em>.<p>
 	<p><em>props</em> is an object that holds information about component.</p>
 	<p>To see a component's props object, use expression <em>this.props</em></p>
-	<p>Give component an attribute to pass info to<br>
-	<em><MyComponent foo = "bar" /></em><p>
+	<p>Give component an attribute to pass info to.<br>
+	<em><MyComponent foo = "bar" /></em></p>
 
-	<p>To pass information to a component, you need a <em>name</em> for the information that you want to pass</p>
-	<p>If you want to pass info that isn't a string, wrap info in curly braces</p>
+	<p>To pass information to a component, you need a <em>name</em> for the information that you want to pass.</p>
+	<p>If you want to pass info that isn't a string, wrap info in curly braces {}</p>
 
 	<p>How you would pass an array:<br>
-	<em><Greeting myInfo = { [ "top", "secret", "12"] } /></em><br>	<Greeting name="Henry" city="London" age={2} /></p>
+	<em><Greeting myInfo = { [ "top", "secret", "12"] } /><br>	
+	<Greeting name="Henry" city="London" age={2} /></em></p>
 
-	<p>Passing information to a component's <em>props</em> object</p>
-	<p><em>ReactDOM.render(<Greeting firstName = 'Roberta'/>, document.getElementById('app'));</em></p>
+	<p>Passing information to a component's <em>props</em> object:<br>
+	<em>ReactDOM.render(<Greeting firstName = 'Roberta'/> document.getElementById('app'));</em></p>
 
 	<h3><a href="https://codepen.io/SundeepToor/pen/WKrXEP" target="_blank">How to make a component display passed-in info</a></h3>
 	<ol>
@@ -36,8 +37,8 @@
 
 	<p><a href="https://codepen.io/SundeepToor/pen/djGZZz" target="_blank">Pass props from component to component</a></p>
 	
-	<p>You can use <em>props</em> to make decisions</p>
-	<p>You can check if a particular value has been given to a prop before returning another prop</p>
+	<p>You can use <em>props</em> to make decisions.</p>
+	<p>You can check if a particular value has been given to a prop before returning another prop.</p>
 	<p>You often pass functions as props.<br>
 	It is common to pass event handler functions.
 </p>
@@ -59,8 +60,8 @@
 	<p>Your prop name should be the word <em>on</em> plus your event type. e.g. <em>onClick</em></p>
 
 	<h3><em>this.props.children</em></h3>
-	<p>Every component's <em>props</em> object hs a property named <em>children</em>
-	<p><em>this.props.children</em> will return evrthing in between a component's opening and closing JSX tags.</p>
+	<p>Every component's <em>props</em> object hs a property named <em>children</em></p>
+	<p><em>this.props.children</em> will return everything in between a component's opening and closing JSX tags.</p>
 
 	<p>Components don't have to be self closing!</p>
 	<p><em><MyComponentClass></em><br>
