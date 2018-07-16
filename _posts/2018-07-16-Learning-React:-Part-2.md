@@ -2,7 +2,8 @@
 	<h3>Getting Component to interact</h3>
 	
 	<p>Render methods can also return another kind of JSX - <em><a href="https://codepen.io/SundeepToor/pen/gjPxZb" target="_blank">component instances</a></em></p>
-	<h3>Exporting Components<h3>
+	
+	<h3>Exporting Components</h3>
 	<p><em>export const nameOfItem = {};</em></p>
 	<p>You can make multiple exports within the same file</p>
 	<p>In a different file, <em>import</em> the name of the variable from the first file</p>
