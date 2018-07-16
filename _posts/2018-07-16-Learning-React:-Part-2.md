@@ -64,7 +64,7 @@
 	<p><em>this.props.children</em> will return everything in between a component's opening and closing JSX tags.</p>
 
 	<p>Components don't have to be self closing!</p>
-	<p><em><MyComponentClass></em><br>
+	<!--<p><em><MyComponentClass></em><br>
 	this.props.children would return everything in here<br>
 	<em></MyComponent></em></p>
 
@@ -76,7 +76,7 @@
 	
 	<p><em><BigButton></em><br>
 	<em><LittleButton /></em><-- this.props.children would equal <LittleButton /><br>
-	<em></BigButton></em></p>
+	<em></BigButton></em></p>-->
 
 	<p>If a component has more than one child between JSX tags, <em>this.props.children</em> will return children in an array.</p>
 
