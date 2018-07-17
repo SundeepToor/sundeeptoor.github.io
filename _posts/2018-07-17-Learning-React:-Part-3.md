@@ -42,7 +42,7 @@
 
 	<p>The most common way to call <em>this.setState()</em> is to call a custom function that wraps a <em>this.setState()</em> call.</p>
 
-
+	<p>
 	<ol>
 		<li>A user triggers an event (click event), triggered by clicking on a <button></li>
 		<li>The event from Step 1 is being listened for (e.g. <em>onClick</em> attribute)</li>
@@ -50,6 +50,7 @@
 		<li>Inside of the body of the <em>event handler</em>, <em>this.setState()</em> is called</li>
 		<li>The component's <em>state</em> is changed</li>
 	</ol>
+	</p>
 	<p><a href="https://codepen.io/SundeepToor/pen/zLqbWx" target="_blank">Setting state with this.setState</a></p>
 
 	<p>Whenever you define an event handler that uses <em>this</em>, you need to add <em>this.methodName = this.methodName.bind(this)</em> to your constructor function.</p>
