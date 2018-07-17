@@ -15,9 +15,9 @@
 
 	<p><em>constructor</em> and <em>super</em> are both features of ES6.</p>
 
-	<p>React components <u>always</ul> have to call <em>super</em> in their constructors to be set up properly.</p>
+	<p>React components <u>always</u> have to call <em>super</em> in their constructors to be set up properly.</p>
 
-	<p>Methods should <u>never</u> be comma-separated</p>
+	<p>Methods should <u>never</u> be comma-separated!</p>
 
 	<h3><a href="https://codepen.io/SundeepToor/pen/djMOoL" target="_blank">Access a component's state</a></h3>
 	
@@ -52,7 +52,7 @@
 	</ol>
 	<p><a href="https://codepen.io/SundeepToor/pen/zLqbWx" target="_blank">Setting state with this.setState</a></p>
 
-	<p>Whenever you define an event handler that uses <em>this</em>, you need to add <em>this.methodName = this.methodName.bind(this)</em> to your constructor function.
+	<p>Whenever you define an event handler that uses <em>this</em>, you need to add <em>this.methodName = this.methodName.bind(this)</em> to your constructor function.</p>
 
 
 	<p><a href="https://codepen.io/SundeepToor/pen/EpKXWa" target="_blank">Example: Change color</a></p>
