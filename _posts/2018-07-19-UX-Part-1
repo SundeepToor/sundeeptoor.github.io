@@ -1,0 +1,87 @@
+<p>While learning about ReactJS, I thought it would be good to understand mire about User Experience
+to help me design better apps. I'm currently working through FutureLearn's free course on user experience.</p>
+
+<h2>FutureLearn : Digital Skills: User Experience</h2>
+
+<h3>What is UX?</h3>
+<ul>
+<li>UX design is about designing any sort of product or real life service with the user in mind.</li>
+<li>To do this well you need to understand who they are and what they need.</li>
+<li>Also known as User centred design.</li>
+</ul>
+
+<p>UI (User Interface) is how the user interacts with the screen. UX covers more, it includes every interaction 
+your customer would have with your business online and offline.</p>
+
+<p><em>UX begines with the start of the idea, all through the lifetime of the product of service.</em></p>
+<ul>
+<li> Starts with high level concepts, understanding the problems and opportunities.</li>
+<li> Researching your users, what are they're needs?</li>
+<li> Get feedback so you can improve your design.</li>
+</ul>
+
+<h3>Why is is important?</h3>
+<ul>
+<li> Increase in profits and engagement to a business/service provider.</li>
+<li> focus on UX saves time later, not having to redesign elements.</li>
+<li> customers expectations have changed (want efficient, pleasing, intuitive)</li>
+</ul>
+
+<h3>Surprising statistics:</h3>
+<ul>
+ <li>79% of people, if they don't like what htye find on a site will go back and search for another one.</li>
+<li> 90% of users have stopped using an app due to poor performance.</li>
+<li> 86% of people have uninstalled/deleted an app based on its performance.</li>
+</ul>
+
+<h3>Foundations of UX design</h3>
+
+<h4>User Centred Mindset<h4>
+<ul> 
+<li>consider how product would impact user.<li>
+<li>ask questions like why, what if?</li>
+<li>consider all parts of UX (UI, physical store, delivery, customer phone service)</li>
+</ul>
+
+<h4>Key process stages</h4>
+<p>The five steps are:</p>
+<ol>
+<li>Discover (about users and other relevant products)</li>
+<li> Describe (define your concept, what are you trying to create?)</li>
+<li> Design (the customers experience of dealing with your product/service)</li>
+<li> Develop (details, visual branding, testing)</li>
+<li>Release (product/service available, continue to improve it with each iteration)</li>
+</ol>
+
+<h4>Good design principles</h4>
+<ol>
+<li> Simple and easy to understand</li>
+<li> Feels intuitive</li>
+<li> Engaging - users feel good while using it</li>
+<li>Efficient</li>
+<li> Users feel supported</li>
+<li> Make it easy to recover from mistakes</li>
+<li> Consistency</li>
+</ol>
+
+<h3>Keys skills you need to develop in the job as a UX designer</h3>
+<ol>
+</li> Creativity </li>
+<p><em>Ux design gives alot of opportunities to think outside the box.</em></p>
+<li> Listening</li>
+<p><em>Listen to users and researchers to ensure your solving the right problem</em></p>
+<li> prototyping and wireframing</li>
+<p><em>create early drafts of a product</em></p>
+<li> communication</li>
+<p><em>with users and clients to ensure the product works well for them</em></p>
+<li> adaptability</li>
+<p><em>Need to be able to deal with new technologies or a new direction after feedback</em></p>
+
+<h4>Beta Testing</h4>
+<ul>
+<li> second phase of software testing. sometimes refered to as user acceptance testing(UAT)</li>
+<li> application is subjected to real world testing by intended users in order to increase feedback</li>
+<li> developers use these expereiences to make final changes before releasing a first interation of the software/website commercially</li>
+</ul>
+
+<p>That's all I've covered on UX this week!</p>
