@@ -2,7 +2,7 @@
 
 <p>It's helping reinforce previous lessons learnt from Codeacademy and FreeCodeCamp.</p>
 
-<h4>Some notes I've made so far:</h4>
+<h3>Some notes I've made so far:</h3>
 
 <p>If you reference an object within a JavaScript expression, it doesn't know what to do with it so you get an error.</p>
 
