@@ -1,3 +1,4 @@
+<div class="blog">
 <h2>What are Analytics?</h2>
 <ul>
   <li>analysis of data</li>
@@ -212,3 +213,4 @@ Ideally, an organization should have multiple KPIs for one business object to in
   <li>Analyse results of the testing to get insight (price is key?)</li>
 </ol>
 <p>Analytics is an iteractive process.</p>
+</div>
