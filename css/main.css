@@ -108,7 +108,9 @@ ul.posts li {
 .git {width: 50%; }
 .tachyons {width: 50%; }
 
-.react {width: 10%; }
+.react {width: 30%; }
+.reactnative {width: 40%; }
+.redux {width: 30%; }
 
 .job-header{
     display:flex;
