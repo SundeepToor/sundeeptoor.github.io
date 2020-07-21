@@ -35,7 +35,7 @@ a {
     padding-bottom: 10px;
 }
 a:hover {
-    border-bottom: 3px solid #f9a626;
+    border-bottom: 3px solid #fff;
 }
 .cv p a:hover{
     border-bottom: none;
@@ -121,10 +121,10 @@ ul.posts li {
 }
 .date{
 
-    color: #ff0080;
+    color: #fff;
 }
 .place{
-    color: #ff0080;
+    color: #fff;
 }
 .blog ul li{
     display:block;
